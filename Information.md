@@ -2,7 +2,7 @@
 
 ## 🛡️ Digital Passport + Shield // Master License & Global Degree Edition
 
-![AIC-HMV Digital Seal](https://raw.githubusercontent.com/AIC-HMV-Private/YOUR-REPO/main/assets/aic-hmv-badge.png)
+![AIC-HMV Digital Seal][(https://raw.githubusercontent.com/AIC-HMV-Private/YOUR-REPO/main/assets/aic-hmv-badge.png)](https://raw.githubusercontent.com/AIC-HMV-Private/main/assets/aic-hmv-badge.png)
 
 > **Certified: Hung Minh Vo (Austin) // AIC-HMV**  
 > US. AMERICAN FUTURE // CEA.Org Licensed  
@@ -12,7 +12,8 @@
 
 ## 🏅 Master Badge & Digital Seal
 
-- **Badge:** ![Badge](https://raw.githubusercontent.com/AIC-HMV-Private/YOUR-REPO/main/assets/aic-hmv-badge.png)
+- **Badge:** ![Badge]
+- (https://raw.githubusercontent.com/AIC-HMV-Private/YOUR-REPO/main/assets/aic-hmv-badge.png)
 - **License:** CEA.Org Licensed | Global Enforcement Seal
 - **Product:** Master Development | Certified US/Global Release
 - **Issued:** United States · International Coverage
