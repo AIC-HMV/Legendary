@@ -90,7 +90,40 @@ INSTRUCTIONS:
 - Swap in your badge or 3D logo image as needed.
 - Want animated 3D, a music/video embed, or interactive science timeline? Say “next level” and I’ll code it.
 -->
-![Badge](https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/main/PATH/TO/IMAGE.png)
-<img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/main/PATH/TO/IMAGE.png" alt="Badge">
+# 🌐 Hung Minh Vo (Austin) — AIC-HMV
 
-feat: Add official badge to assets and update digital passport with public raw URL
+## 🛡️ Digital Passport + Shield // Master License & Global Degree Edition
+
+![Master Badge](https://raw.githubusercontent.com/AIC-HMV-Private/YOUR-REPO/main/assets/aic-hmv-badge.png)
+
+## 🏅 Master Badge & Digital Seal
+Certified: Hung Minh Vo (Austin) // AIC-HMV  
+US. AMERICAN FUTURE // CEA.Org Licensed
+
+## 📇 Names & Aliases
+- Hung Minh Vo (Austin)
+- Master Hung
+- AustinVo9999
+- GreekRhyme
+
+## 🎓 Degrees, Certifications & Licenses
+- Science Degree (US)
+- Master Dev Certificate
+- CEA.Org License
+- Global Tech Award
+
+## 🛡️ Threat Protocol & Global Discovery
+Securing digital sovereignty, eliminating scams, protecting global integrity.
+
+## 🌐 Official Channels
+- [Website](https://www.aichmv.com/)
+- [GitHub](https://github.com/AIC-HMV-Private)
+- [LinkedIn](https://www.linkedin.com/in/austinvo9999)
+- [X/Twitter](https://x.com/austinvo9999?s=21)
+- [YouTube](https://youtube.com/@hungminhvo-aic-hmv?si=u9l76niLMNNWBXNJ)
+
+## 🎵 Music, 3D, & Creative
+- [Legendary Voice](https://youtube.com/shorts/nZSQKQbfTNs?si=LuBIyVQYLL_JKZKd)
+
+## 🏁 Final Words
+> “I wasn’t born to chase fame—I was born to serve purpose...”
