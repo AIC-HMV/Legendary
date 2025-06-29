@@ -67,7 +67,16 @@ Original builder, original science.**
 
 ## 🎵 Music, 3D, & Creative
 
-[![Legendary (short) — YouTube](https://img.shields.io/badge/Watch%20My%20Voice-YouTube-red?style=for-the-badge&logo=youtube)](https://youtube.com/shorts/nZSQKQbfTNs?si=LuBIyVQYLL_JKZKd)
+{
+  "githubIssues": {
+    "label": "query",
+    "query": "repo:AIC-HMV-Private is:issue is:open",
+    "groupBy": {}
+  },
+  "git.autofetch": true,
+  "workbench.startupEditor": "none"
+}
+(https://youtube.com/shorts/nZSQKQbfTNs?si=LuBIyVQYLL_JKZKd)
 
 > “I build code, I build sound, I move in 3D. Every beat, every badge, every discovery—original.  
 > Fakes echo. Legends create.”
@@ -94,7 +103,7 @@ INSTRUCTIONS:
 
 ## 🛡️ Digital Passport + Shield // Master License & Global Degree Edition
 
-![Master Badge](https://raw.githubusercontent.com/AIC-HMV-Private/YOUR-REPO/main/assets/aic-hmv-badge.png)
+![Master Badge]![AIC-HMV Digital Seal](https://raw.githubusercontent.com/YOUR-USER/YOUR-REPO/main/assets/badge.png)
 
 ## 🏅 Master Badge & Digital Seal
 Certified: Hung Minh Vo (Austin) // AIC-HMV  
