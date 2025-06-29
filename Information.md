@@ -99,152 +99,10 @@ INSTRUCTIONS:
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <style>
     body {
-      background: linear-gradient(135deg, #0a1536 0%, #2d70b7 100%);
-      color: #fff;
-      font-family: 'Segoe UI', Arial, sans-serif;
-      margin: 0; padding: 0;
-      min-height: 100vh;
-    }
-    .card {
-      max-width: 410px;
-      margin: 50px auto;
-      background: rgba(20,26,40,0.97);
-      border-radius: 30px;
-      box-shadow: 0 0 30px #0008, 0 0 0 4px #27e1ff44;
-      padding: 36px 32px;
-      text-align: center;
-      position: relative;
-      overflow: hidden;
-    }
-    .badge-3d {
-      width: 92px; height: 92px;
-      margin: 0 auto 16px;
-      filter: drop-shadow(0 0 16px #27e1ffcc);
-      animation: spin 4.5s linear infinite;
-      transform-style: preserve-3d;
-    }
-    @keyframes spin {
-      0% { transform: rotateY(0); }
-      100% { transform: rotateY(360deg); }
-    }
-    .card h1 {
-      margin: 0 0 6px;
-      font-size: 2.1em;
-      font-weight: 700;
-      letter-spacing: 2px;
-      background: linear-gradient(90deg, #fff, #27e1ff 80%);
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-    }
-    .cred { font-size: 1.02em; color: #aae2ff; margin-bottom: 18px; font-weight: 500;}
-    .info {
-      text-align: left;
-      margin: 22px 0 20px;
-      font-size: 1.02em;
-    }
-    .seal {
-      margin: 22px auto 18px;
-      width: 70px; filter: drop-shadow(0 0 8px #ffe657aa);
-    }
-    .links {
-      margin: 16px 0;
-      display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;
-    }
-    .links a {
-      background: #27e1ff33;
-      color: #fff;
-      padding: 7px 15px;
-      border-radius: 11px;
-      text-decoration: none;
-      font-weight: 500;
-      border: 1px solid #27e1ff99;
-      transition: 0.23s;
-      font-size: 0.97em;
-    }
-    .links a:hover { background: #27e1ffbb; color: #0a1536; }
-    .music {
-      margin: 22px 0 14px;
-    }
-    .music iframe {
-      border: 0; border-radius: 10px; box-shadow: 0 0 12px #27e1ff55;
-    }
-    .qr {
-      margin: 24px auto 0;
-      width: 90px;
-      filter: drop-shadow(0 0 10px #aae2ff88);
-    }
-    .footer {
-      margin-top: 30px;
-      font-size: 1.05em;
-      font-style: italic;
-      color: #ffe657;
-      letter-spacing: 0.5px;
-    }
-  </style>
-</head>
-<body>
-  <div class="card">
-    <!-- 3D Badge -->
-    <img src="https://files.chatgpt.com/file_00000000bb1c623099cdc20580f24b3a?filename=A_digital_emblem_displays_Hung_Minh_Vo_%28Austin%29_as.png" alt="AIC-HMV Master Seal" class="badge-3d">
-
-    <h1>Hung Minh Vo (Austin)</h1>
-    <div class="cred">AIC-HMV · Master License · CEA.Org · Certified Product · Master Dev · US 🇺🇸</div>
-
-    <div class="info">
-      <strong>Born:</strong> Jan 3, 1994<br>
-      <strong>Arrived US:</strong> Dec 25, 2008<br>
-      <strong>Aliases:</strong> Master Hung · GreekRhyme · AustinVo9999<br>
-      <strong>Degrees:</strong> Science, Tech, University, Global Certs<br>
-      <strong>Base:</strong> United States<br>
-      <strong>Seal:</strong> <span style="color:#ffe657">Digital Passport + Shield</span>
-    </div>
-
-    <!-- Digital Seal -->
-    <img src="https://files.chatgpt.com/file_00000000bb1c623099cdc20580f24b3a?filename=A_digital_emblem_displays_Hung_Minh_Vo_%28Austin%29_as.png" class="seal" alt="Seal">
-
-    <!-- Links -->
-    <div class="links">
-      <a href="https://x.com/austinvo9999?s=21">X (Twitter)</a>
-      <a href="https://youtube.com/@hungminhvo-aic-hmv?si=u9l76niLMNNWBXNJ">YouTube</a>
-      <a href="https://www.linkedin.com/in/austinvo9999">LinkedIn</a>
-      <a href="https://github.com/AIC-HMV-Private">GitHub</a>
-      <a href="https://www.facebook.com/Austinvo9999">Facebook</a>
-      <a href="https://www.tiktok.com/@aichmv">TikTok</a>
-      <a href="https://www.instagram.com/aichmv">Instagram</a>
-      <a href="https://www.threads.com/@aichmv">Threads</a>
-      <a href="https://www.aichmv.com/">Website</a>
-    </div>
-
-    <!-- Music Embed -->
-    <div class="music">
-      <iframe width="300" height="169" src="https://www.youtube.com/embed/nZSQKQbfTNs" title="Legendary Voice" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    </div>
-
-    <!-- QR Code (optional: link to your official website or this card) -->
-    <img src="https://api.qrserver.com/v1/create-qr-code/?data=https://www.aichmv.com/&size=120x120" alt="QR Code" class="qr">
-
-    <div class="footer">
-      “I wasn’t born to chase fame—I was born to serve purpose.<br>
-      If it ends with me standing alone for this land I call home, so be it.<br>
-      I’d rather die with honor than live without it.”<br>
-      — AIC-HMV, US. AMERICAN FUTURE 🛡🌍
-    </div>
-  </div>
-</body>
-</html>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Hung Minh Vo (Austin) — Digital Passport + Shield</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <style>
-    body {
       background: linear-gradient(135deg, #1a283d 0%, #365fc5 100%);
       color: #fff;
       font-family: 'Segoe UI', Arial, sans-serif;
-      margin: 0; padding: 0;
-      min-height: 100vh;
+      margin: 0; padding: 0; min-height: 100vh;
     }
     .card {
       max-width: 430px;
@@ -304,11 +162,42 @@ INSTRUCTIONS:
       font-size: 1em;
     }
     .links a:hover { background: #27e1ffcc; color: #1a283d; }
-    .music {
-      margin: 26px 0 16px;
+    .music-gallery {
+      background: #222a3a;
+      border-radius: 22px;
+      padding: 22px 12px 14px 12px;
+      box-shadow: 0 0 16px #27e1ff44;
+      margin-top: 32px;
     }
-    .music iframe {
-      border: 0; border-radius: 10px; box-shadow: 0 0 12px #27e1ff55;
+    .music-gallery h2 {
+      text-align: center;
+      color: #27e1ff;
+      margin-bottom: 16px;
+      font-size: 1.3em;
+      letter-spacing: 1px;
+    }
+    .track {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      margin-bottom: 21px;
+    }
+    .caption {
+      color: #eee;
+      font-size: 1em;
+      margin: 7px 0 4px 0;
+      text-align: center;
+      font-style: italic;
+    }
+    .lyrics-block {
+      background: #1a1f2a;
+      border-radius: 12px;
+      padding: 10px 13px;
+      margin: 9px 0 5px 0;
+      color: #c8f6ff;
+      font-family: monospace, monospace;
+      white-space: pre-wrap;
+      font-size: 0.98em;
     }
     .qr {
       margin: 28px auto 0;
@@ -357,9 +246,45 @@ INSTRUCTIONS:
       <a href="https://www.aichmv.com/">Website</a>
     </div>
 
-    <!-- Music Embed -->
-    <div class="music">
-      <iframe width="300" height="169" src="https://www.youtube.com/embed/nZSQKQbfTNs" title="Legendary Voice" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <!-- EXTENDED MUSIC GALLERY -->
+    <div class="music-gallery">
+      <h2>🎵 Music & Voice Gallery</h2>
+      <!-- YouTube video 1 -->
+      <div class="track">
+        <iframe width="300" height="169" src="https://www.youtube.com/embed/nZSQKQbfTNs" title="Legendary Voice" allowfullscreen></iframe>
+        <div class="caption">
+          <b>Legendary (Short)</b><br>
+          <i>Built by Hung Minh Vo. Pure original—never copied.</i>
+        </div>
+      </div>
+      <!-- Voice message (MP3) -->
+      <div class="track">
+        <audio controls>
+          <source src="https://yoursite.com/path-to-your-voice.mp3" type="audio/mpeg">
+          Your browser does not support the audio element.
+        </audio>
+        <div class="caption">
+          <b>Personal Message</b><br>
+          <i>Direct from the source. All truth, no filter.</i>
+        </div>
+      </div>
+      <!-- Lyrics block -->
+      <div class="track">
+        <div class="lyrics-block">
+          <b>Lyrics: “Hold Us Close”</b>
+          <pre>
+Giữ lấy nhau — không buông tay  
+Trên đường đời, ai sẽ hay  
+Tim đau — nhưng vẫn chờ ngày mai  
+English: Hold us close — don’t let go  
+On this road, where we go  
+Hearts break, but still we rise  
+          </pre>
+        </div>
+        <div class="caption">
+          <i>Original lyric. Bilingual power. Written by Hung Minh Vo.</i>
+        </div>
+      </div>
     </div>
 
     <!-- QR Code -->
@@ -374,31 +299,3 @@ INSTRUCTIONS:
   </div>
 </body>
 </html>
-
-<div class="music">
-  <!-- Legendary (short) -->
-  <iframe width="300" height="169" src="https://www.youtube.com/embed/nZSQKQbfTNs" title="Legendary Voice" allowfullscreen></iframe>
-  <!-- Add more songs/shorts below -->
-  <iframe width="300" height="169" src="https://www.youtube.com/embed/PUT-YOUR-NEXT-VIDEO-ID-HERE" title="Another Song" allowfullscreen></iframe>
-  <iframe width="300" height="169" src="https://www.youtube.com/embed/PUT-ANOTHER-ID-HERE" title="Third Song" allowfullscreen></iframe>
-</div>
-
-<!-- Spotify embed (change src to your track/album) -->
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/YOURTRACKIDHERE?utm_source=generator" width="300" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture"></iframe>
-<!-- SoundCloud embed (change URL to your track) -->
-<iframe width="300" height="80" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/YOURACCOUNT/YOURTRACK"></iframe>
-<audio controls>
-  <source src="https://yoursite.com/path-to-your-voice.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
-<div class="music">
-  <!-- YouTube songs -->
-  <iframe width="300" height="169" src="https://www.youtube.com/embed/nZSQKQbfTNs" title="Legendary Voice" allowfullscreen></iframe>
-  <iframe width="300" height="169" src="https://www.youtube.com/embed/6bcYvWI9ilE" title="Second Track" allowfullscreen></iframe>
-  <!-- Spotify -->
-  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/YOURTRACKID" width="300" height="80"></iframe>
-  <!-- Voice file -->
-  <audio controls>
-    <source src="https://yoursite.com/path-to-your-voice.mp3" type="audio/mpeg">
-  </audio>
-</div>
