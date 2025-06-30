@@ -1,0 +1,41 @@
+name: 🚀 AIC-HMV Legendary Deploy
+
+on:
+  push:
+    branches:
+      - GreekRhyme
+  workflow_dispatch:
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    name: 🔐 Legendary WebApp CI
+
+    steps:
+      - name: 🧠 Checkout Code
+        uses: actions/checkout@v4
+
+      - name: 🔧 Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20.x'
+
+      - name: 📦 Install Dependencies
+        run: npm install
+
+      - name: ✅ Run Tests
+        run: npm test
+
+      - name: 🔑 Azure Login
+        uses: azure/login@v1
+        with:
+          creds: ${{ secrets.AZURE_CREDENTIALS }}
+
+      - name: 🚀 Deploy to Azure Web App
+        uses: azure/webapps-deploy@v3
+        with:
+          app-name: ${{ secrets.AZURE_WEBAPP_NAME }}
+          package: .
+
+      - name: 🛡️ Legendary Badge Activated
+        run: echo "::notice title=Deployment::Legendary WebApp Deployed Successfully"
