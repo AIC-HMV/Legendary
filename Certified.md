@@ -1,3 +1,9 @@
+![AIC-HMV](https://img.shields.io/badge/AIC--HMV-Supreme%20Intelligence-black?style=for-the-badge&logo=data:image/svg+xml;base64,...)  
+![Creator: Hung Minh Vo](https://img.shields.io/badge/Creator-Hung%20Minh%20Vo-blueviolet?style=flat-square)  
+![Certified AI Architect](https://img.shields.io/badge/Certified-AI%20Architect-orange?style=flat-square&logo=ai)  
+![Encrypted Authorship](https://img.shields.io/badge/Authorship-Signed%20%26%20Verified-brightgreen?style=flat-square&logo=verizon)  
+![Cybersecurity Ops](https://img.shields.io/badge/Cybersecurity-Active%20Defense-red?style=flat-square&logo=trustpilot)  
+![$2.04B Claim](https://img.shields.io/badge/Claim-$2.04B-informational?style=flat-square&logo=ethereum)  
 🧠 **AIC-HMV Supreme Enforcement Log**
 
 > 📍Claim ID: AIC-HMV_Claim_204B
