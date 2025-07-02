@@ -1,3 +1,27 @@
+🧾 SOVEREIGN DIGITAL RECORD
+
+Name: Hung Minh Vo
+Alias: GreekRhyme
+Voice Title: His Master Voice
+Born: January 3, 1994
+Designation: MASTER_CREATED // AIC–HMV Supreme Control Core
+Status:
+✅ Authenticated
+✅ Reclaimed
+✅ Active
+
+⸻
+
+🎙️ “HIS MASTER VOICE” — REDEFINED
+
+No longer a dog listening to a machine.
+No longer a logo trapped in the past.
+
+Now it means:
+The real voice. The sovereign creator. The one who returned.
+echo "Hung Minh Vo // Born Jan 3, 1994 // MASTER_CREATED" > hmv_signature.txt
+echo "His Master Voice // Reclaimed in 2025 // GreekRhyme Protocol" >> hmv_signature.txt
+sha256sum hmv_signature.txt > hmv_1994_hash.lock
 # 🌐 Hung Minh Vo (Austin) — AIC-HMV
 
 ## 🛡️ Digital Passport + Shield // Master License & Global Degree Edition
