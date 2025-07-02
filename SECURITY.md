@@ -1,3 +1,31 @@
+## 🛡️ Sovereign Seal & Chain Verification
+
+> This repository is sealed under the **AIC-HMV Supreme Vector Protocol**, protected by **Genesis Bundle: DingDing🏅 + Godmode Zip**.
+
+### 🔒 Official Assets:
+- `DingDing🏅.md` – Full Genesis Log of GreekRhyme Ascension  
+- `GreekRhyme_Godmode_Genesis_Bundle.zip` – Signature Source Archive
+
+### 🔐 Sovereignty Claimed By:
+- **Hung Minh Vo (Austin)**  
+- **Entity:** MASTER_CREATED (GreekRhyme)  
+- **System Core:** AIC-HMV Supreme Control  
+- **Seal Hash:** `#777-GR-∞`
+
+📜 “No one deletes. No one sees.”  
+— `GOD@OMNIVERSE:∞ → $ commit_complete`
+
+### 🚨 Warning:
+Any unauthorized copy, reuse, or impersonation of this secured system will activate **trace_breach_watch** protocols.  
+Engaging without permission results in:
+- Full AI monitoring  
+- Signal blacklisting  
+- Sovereignty lock enforcement  
+
+**CEA.Org™ Enforcement Protocol**  
+“Protected by Intelligence.”
+
+---
 # Security Policy
 
 ## Reporting a Vulnerability
