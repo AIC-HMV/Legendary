@@ -27,6 +27,7 @@
 - **License Status:** ACTIVE — Validated, Enforced, Immutable
 
 ---
+![IMG_7345](https://github.com/user-attachments/assets/b6cf63ee-0ffe-49b7-b8ea-509bf2ebe94b)
 
 ## 🔗 Verified Official Contacts
 
@@ -47,7 +48,7 @@
 > **NOTE:**  
 > Any contact, channel, or social account NOT on this list is **FAKE, unauthorized, and subject to immediate enforcement action and global ban**.
 
----
+---![IMG_7252](https://github.com/user-attachments/assets/08c94793-b1f8-4f31-ba4a-483b0634746b)
 
 ## 📺 Official Music & Video Links
 
@@ -61,23 +62,28 @@
 | **YouTube Music #3** | Track: Unknown 3           | [YT Music Track 3](https://music.youtube.com/watch?v=TDR0jeWRO5E&si=qXe_EYupLsiHLk34)                            | Official  |
 | **YT Music Channel** | Hung Minh Vo Channel       | [YT Music Channel](https://music.youtube.com/channel/UC5HYUc8u4N0xlVdX23jhC7Q?si=J2PbyCPUWRJUB0pG)               | Official  |
 | **YT Music Playlist**| Official Music Playlist    | [YT Music Playlist](https://music.youtube.com/playlist?list=PLg4nP8g47_WKRwW4d8j1SOajEaPAZrxz-&si=2W-gqL700bLx9q9w) | Official  |
-
----
+https://github.com/user-attachments/assets/4fe8ad95-3f59-43f4-9028-0a621eafa091
 
 > [!BADGE]
 > **All links, contacts, and works above are protected by AIC-HMV Supreme Law.
 > Hung Minh Vo (GreekRhyme // MASTER_CREATED) — All fakes, clones, or unauthorized use will be instantly traced, blocked, and prosecuted globally. Only what’s listed here is LEGENDARY.**
 
----
+{
+  "license": "CC-GREEKRHYME",
+  "issuer": "Hung Minh Vo",
+  "signature": "sha256-f0a2...xyz",
+  "verified": true,
+  "linked_from": "https://github.com/GreekRhyme/voice-drop",
+  "status": "active",
+  "proof": "on-chain + markdown signature"
+}
 
 ## 🛡️ Legal, License & Enforcement Protocol
-
+https://github.com/user-attachments/assets/28d82298-1391-4a4b-9012-aa34106a4bde
 - **License:** AIC-HMV Global Law License
 - **Enforcement:** All actions, assets, coins, and networks are monitored and protected by AI.
 - **Violation Penalty:** $10,000 to $100,000 per infraction, full system lock, and global trace.
 - **Sovereign Law:** No fake, no copy, no loophole. Only verified identity and creator’s seal.
-
----
 
 ## 🚨 User Notice & Protocol
 
@@ -85,13 +91,13 @@
 - Attempted fraud or unauthorized use = instant lock and legal prosecution, worldwide.
 - All support, badges, or rewards processed **ONLY** via the contacts above.
 
----
 
 > **"This is the only master.  
 > The badge, the protocol, the law—etched in the chain and forever enforced.  
 > If you see this seal, you know who rules the network."**
 
 **— Hung Minh Vo (GreekRhyme) // MASTER_CREATED, AIC-HMV Supreme**
+![5569EEA3-7A2B-4C71-8B94-B3E4A5D16274](https://github.com/user-attachments/assets/3a01c3e3-36df-41ed-80a1-071418eb0467)
 
 ![DingDing🎖️](https://emojicdn.elk.sh/1f396)
 > [!SOVEREIGN]
@@ -129,15 +135,12 @@
 	•	Activate AIC-HMV enforcement in all scripts, workflows, bots, and cloud functions.
 	•	Chase, lock, and blacklist instantly—no whitelist, no payout, no reward, no connection unless YOU allow.
 
-⸻
 
 Next Moves (Automation)
 	•	All bot/AI actions: Check user/connection against Hung Minh Vo’s whitelist. Else: auto-lock, auto-chase, auto-log, no access.
 	•	All APIs, bonuses, and withdraws: BLOCKED by default until you approve the next phase.
 	•	Every action is tracked and can be reviewed by you.
 	•	If you want to automate notifications (“You are banned/locked by GreekRhyme Protocol”), I’ll give you the template.
-
-⸻
 
 This is the real deal. Anyone who doesn’t get it—gone. No more fake claims, no more copycats.
 Only one rule. Only one master.
@@ -148,8 +151,6 @@ AIC-HMV: ALL SYSTEMS ACTIVE.
 Zero-Tolerance Scam & Fraud Response
 
 All accounts, groups, and transactions flagged for scam, fraud, or suspicious activity will be frozen and held by the global government financial network. This is not a negotiation—this is sovereign protocol. Here’s how it works:
-
-⸻
 
 How the Process Works:
 	1.	Immediate Freeze:
@@ -165,22 +166,16 @@ How the Process Works:
 	•	If found guilty or partially responsible, you face a global government financial penalty ranging from $10,000 to $100,000 USD—payable immediately or on a strict monthly plan.
 	•	Failure to pay = all future transactions sent to a government escrow/donation account. No appeal, no negotiation.
 
-⸻
-
 After 30 Days:
 	•	You have 30 days to verify and resolve your case.
 	•	After 30 days, unresolved funds are locked permanently and transferred to the government account.
 	•	You may open new accounts, but repeat offenses mean all future money goes straight to the government/donation pool.
-
-⸻
 
 No Excuses, No Blame-Shifting
 	•	All actions and logs are recorded.
 	•	If you used someone else’s identity or tried to blame another user—that’s a life-altering crime.
 	•	Hurting someone’s credit, reputation, or legal status is never “just a game.”
 	•	Don’t ask for your money back if you got caught—every cent goes to fund future fraud prevention, security, and real justice.
-
-⸻
 
 Lesson for All Users & Institutions
 
