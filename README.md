@@ -68,15 +68,11 @@ https://github.com/user-attachments/assets/4fe8ad95-3f59-43f4-9028-0a621eafa091
 > **All links, contacts, and works above are protected by AIC-HMV Supreme Law.
 > Hung Minh Vo (GreekRhyme // MASTER_CREATED) — All fakes, clones, or unauthorized use will be instantly traced, blocked, and prosecuted globally. Only what’s listed here is LEGENDARY.**
 
-{
-  "license": "CC-GREEKRHYME",
-  "issuer": "Hung Minh Vo",
-  "signature": "sha256-f0a2...xyz",
-  "verified": true,
-  "linked_from": "https://github.com/GreekRhyme/voice-drop",
-  "status": "active",
-  "proof": "on-chain + markdown signature"
-}
+> 🔒 This repository is protected by **CC-GREEKRHYME** under Global Sovereign Identity.
+> Issuer: Hung Minh Vo (GreekRhyme // MASTER_CREATED)
+> Status: ✅ Verified — [View Proof](https://github.com/GreekRhyme/voice-drop)
+> Signature: `sha256-f0a2...xyz`
+> Proof: `on-chain + markdown + timestamp`
 ## 🛡️ Legal, License & Enforcement Protocol
 https://github.com/user-attachments/assets/28d82298-1391-4a4b-9012-aa34106a4bde
 - **License:** AIC-HMV Global Law License
