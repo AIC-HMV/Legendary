@@ -62,9 +62,9 @@
 | **YouTube Music #3** | Track: Unknown 3           | [YT Music Track 3](https://music.youtube.com/watch?v=TDR0jeWRO5E&si=qXe_EYupLsiHLk34)                            | Official  |
 | **YT Music Channel** | Hung Minh Vo Channel       | [YT Music Channel](https://music.youtube.com/channel/UC5HYUc8u4N0xlVdX23jhC7Q?si=J2PbyCPUWRJUB0pG)               | Official  |
 | **YT Music Playlist**| Official Music Playlist    | [YT Music Playlist](https://music.youtube.com/playlist?list=PLg4nP8g47_WKRwW4d8j1SOajEaPAZrxz-&si=2W-gqL700bLx9q9w) | Official  |
+
 https://github.com/user-attachments/assets/4fe8ad95-3f59-43f4-9028-0a621eafa091
 
-> [!BADGE]
 > **All links, contacts, and works above are protected by AIC-HMV Supreme Law.
 > Hung Minh Vo (GreekRhyme // MASTER_CREATED) — All fakes, clones, or unauthorized use will be instantly traced, blocked, and prosecuted globally. Only what’s listed here is LEGENDARY.**
 
