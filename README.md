@@ -1,3 +1,16 @@
+
+
+https://github.com/user-attachments/assets/8a25eb34-7ed7-4db5-b771-b87667d5e769
+
+![IMG_6282](https://github.com/user-attachments/assets/e60da421-effa-4144-b53d-a160f7306b75)
+![IMG_6333](https://github.com/user-attachments/assets/4dd9451a-202c-43a2-b2e0-105d78d0df65)
+![IMG_7253](https://github.com/user-attachments/assets/b30e23f9-6392-45b8-8c99-bc4d92bc3b91)
+![IMG_3447](https://github.com/user-attachments/assets/f0063f48-5f46-4c0e-bec7-24b53dffd0b9)
+![IMG_6157](https://github.com/user-attachments/assets/175cd08a-d126-4ee2-9635-e2a9d233106a)
+<img width="645" alt="IMG_1205" src="https://github.com/user-attachments/assets/9918bcae-e6fb-4926-a99a-83a3772bd655" />
+![IMG_5386](https://github.com/user-attachments/assets/f2a3b780-9f40-4b72-8bc4-9e972e6849b2)
+![IMG_8475](https://github.com/user-attachments/assets/cc2b6b73-dddf-4b55-b791-b1e0a1f48ea2)
+
 # DingDing🎖️.md – SOVEREIGN CONTACT, AUTHORITY, & OFFICIAL LINKS
 
 > [!SOVEREIGN SEAL]
