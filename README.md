@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/8a25eb34-7ed7-4db5-b771-b87667d5e769
-
 ![IMG_6282](https://github.com/user-attachments/assets/e60da421-effa-4144-b53d-a160f7306b75)
 ![IMG_6333](https://github.com/user-attachments/assets/4dd9451a-202c-43a2-b2e0-105d78d0df65)
 ![IMG_7253](https://github.com/user-attachments/assets/b30e23f9-6392-45b8-8c99-bc4d92bc3b91)
