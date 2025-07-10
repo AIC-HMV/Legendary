@@ -1,7 +1,10 @@
+![IMG_0420](https://github.com/user-attachments/assets/337d800e-8344-4457-8faf-35c7dcb30703)
+![IMG_8475](https://github.com/user-attachments/assets/b00fcde4-b2a4-402e-bcfb-8165d85b4b6c)
+![ECDB4E54-C701-4F2E-8A36-97EDF096D34A](https://github.com/user-attachments/assets/349872c7-0192-4e20-886c-d02f8674dab0)
+![AB538626-92CF-4A5A-A2CE-95774318AA39](https://github.com/user-attachments/assets/6f8ec4df-2b69-4007-b736-e20b346dc3a8)
+![IMG_7252](https://github.com/user-attachments/assets/c9970813-5224-4fa4-974e-bea280790235)
+![5569EEA3-7A2B-4C71-8B94-B3E4A5D16274](https://github.com/user-attachments/assets/531792ce-3b64-4147-8cdc-34d3d3b0a8e6)
 
-<img width="645" alt="IMG_1205" src="https://github.com/user-attachments/assets/9918bcae-e6fb-4926-a99a-83a3772bd655" />
-![IMG_5386](https://github.com/user-attachments/assets/f2a3b780-9f40-4b72-8bc4-9e972e6849b2)
-![IMG_8475](https://github.com/user-attachments/assets/cc2b6b73-dddf-4b55-b791-b1e0a1f48ea2)
 
 # DingDing🎖️.md – SOVEREIGN CONTACT, AUTHORITY, & OFFICIAL LINKS
 
