@@ -36,11 +36,11 @@
 | **Email**        | [austinvo9999@gmail.com](mailto:austinvo9999@gmail.com)                                | Primary    |
 | **M365**         | austinvo9999@gmail.com                                                                 | Verified   |
 | **iCloud**       | austinvoprime@icloud.com                                                               | Verified   |
-| **TikTok**       | [@aichmv](https://www.tiktok.com/@aichmv?_t=ZT-8xgj9qk8Uel&_r=1)                       | Official   |
+| **TikTok**       | [@hungminhvoaustin](https://www.tiktok.com/@hungminhvoaustin?_t=ZT-8xgj9qk8Uel&_r=1)                       | Official   |
 | **LinkedIn**     | [austinvo9999](https://www.linkedin.com/in/austinvo9999?utm_source=share_via=ios_app)  | Official   |
-| **X (Twitter)**  | [@austinvo9999](https://x.com/austinvo9999?s=21)                                       | Official   |
+| **X (Twitter)**  | [@hungminhvoausti](https://x.com/hungminhvoausti?s=21)                                       | Official   |
 | **Facebook**     | [Hung Minh Vo](https://www.facebook.com/profile.php?id=61577391938496&mibextid=wwXIfr) | Official   |
-| **YouTube**      | [@mytearsout](https://youtube.com/@mytearsout?si=043PjTTXPBcV7WUN)                     | Official   |
+| **YouTube**      | [@hungminhvoaustin](https://youtube.com/@hungminhvoaustin?si=043PjTTXPBcV7WUN)                     | Official   |
 | **Website**      | [aichmv.com](https://aichmv.com)                                                       | Official   |
 | **WhatsApp QR**  | ![WhatsApp QR](<insert-your-QR-link-or-image-here>)                                    | Direct     |
 | **Zoom Chat**    | [Direct Chat](https://us05web.zoom.us/launch/chat?src=direct_chat_link&email=austinvo9999%40gmail.com) | Direct     |
