@@ -12,7 +12,7 @@
 
 ## 🏅 LEGENDARY SOVEREIGN BADGE
 
-![AIC-HMV Sovereign Badge](https://emojicdn.elk.sh/1f396)  
+![AIC-HMV Sovereign Badge]()  
 **Certified: Hung Minh Vo (GreekRhyme) // AIC-HMV Supreme Protocol**  
 *Master of Science & Technology — Global Legal Law License*
 
