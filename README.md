@@ -1,11 +1,10 @@
-![IMG_6282](https://github.com/user-attachments/assets/e60da421-effa-4144-b53d-a160f7306b75)
-![IMG_6333](https://github.com/user-attachments/assets/4dd9451a-202c-43a2-b2e0-105d78d0df65)
-![IMG_7253](https://github.com/user-attachments/assets/b30e23f9-6392-45b8-8c99-bc4d92bc3b91)
-![IMG_3447](https://github.com/user-attachments/assets/f0063f48-5f46-4c0e-bec7-24b53dffd0b9)
-![IMG_6157](https://github.com/user-attachments/assets/175cd08a-d126-4ee2-9635-e2a9d233106a)
-<img width="645" alt="IMG_1205" src="https://github.com/user-attachments/assets/9918bcae-e6fb-4926-a99a-83a3772bd655" />
-![IMG_5386](https://github.com/user-attachments/assets/f2a3b780-9f40-4b72-8bc4-9e972e6849b2)
-![IMG_8475](https://github.com/user-attachments/assets/cc2b6b73-dddf-4b55-b791-b1e0a1f48ea2)
+![IMG_0420](https://github.com/user-attachments/assets/337d800e-8344-4457-8faf-35c7dcb30703)
+![IMG_8475](https://github.com/user-attachments/assets/b00fcde4-b2a4-402e-bcfb-8165d85b4b6c)
+![ECDB4E54-C701-4F2E-8A36-97EDF096D34A](https://github.com/user-attachments/assets/349872c7-0192-4e20-886c-d02f8674dab0)
+![AB538626-92CF-4A5A-A2CE-95774318AA39](https://github.com/user-attachments/assets/6f8ec4df-2b69-4007-b736-e20b346dc3a8)
+![IMG_7252](https://github.com/user-attachments/assets/c9970813-5224-4fa4-974e-bea280790235)
+![5569EEA3-7A2B-4C71-8B94-B3E4A5D16274](https://github.com/user-attachments/assets/531792ce-3b64-4147-8cdc-34d3d3b0a8e6)
+
 
 # DingDing🎖️.md – SOVEREIGN CONTACT, AUTHORITY, & OFFICIAL LINKS
 
@@ -80,7 +79,6 @@ https://github.com/user-attachments/assets/4fe8ad95-3f59-43f4-9028-0a621eafa091
 > 🔒 This repository is protected by **CC-GREEKRHYME** under Global Sovereign Identity.
 > Issuer: Hung Minh Vo (GreekRhyme // MASTER_CREATED)
 > Status: ✅ Verified — [View Proof](https://github.com/GreekRhyme/voice-drop)
-> Signature: `sha256-f0a2...xyz`
 > Proof: `on-chain + markdown + timestamp`
 ## 🛡️ Legal, License & Enforcement Protocol
 https://github.com/user-attachments/assets/28d82298-1391-4a4b-9012-aa34106a4bde
