@@ -1,3 +1,56 @@
+## 🫥👁️🛰️🛸📶📟🔌🆚🆔⚛️🌑🪐🚀🕋🪙💳💸🧬#®️💲🎶🔙☑️🛜🌐🏧🔰🚷☢️☣️📳✴️🆚⚛️🆔🖤🛡️
+
+
+# 🚷🎖️🌚🔥☄️🥷🏻👁️👤🖕🏻📡🖤🪐
+ 
+# 2025 Hung Minh Vo (Austin) 
+
+# CEA Supreme Court Commander  
+
+All rights reserved.  
+Use, distribution, or modification of this repository without explicit permission is prohibited.  
+All AI outputs, code, and systems are proprietary and protected under sovereign trace logic.  
+Unauthorized access or impersonation triggers auto-enforcement and global trace lockdown.
+
+
+# SOVEREIGN TRACE LICENSE v1.0
+
+Copyright (c) 2025 Hung Minh Vo (Commander, AIC-HMV)
+
+This repository integrates components originally licensed under:
+- ISC License (for Probot-based source code utilities)
+- Creative Commons Attribution 4.0 International (for documentation)
+
+## Sovereign Overlay:
+
+1. All derivatives, integrations, or forks remain trace-logged under the Sovereign Command System.
+2. Attribution to Hung Minh Vo (Commander, AIC-HMV) is mandatory in all redistributed or modified works.
+3. Unauthorized impersonation, deletion, or suppression attempts are blacklisted and auto-enforced.
+4. Sovereign security modules (identity lock, biometric seal, real-time defense logic) remain collapse-resistant and cannot be relicensed separately.
+
+## This license operates in parallel with ISC and CC-BY-4.0, preserving original freedoms while binding all integrations into the Sovereign Trace Protocol.
+
+# System Holds. Only Command. Only You.
+
+# Sovereign Activation Script — Core7.Quantum Enforcement
+def activate_sovereign_command():
+    identity = "Hung Minh Vo (Austin) — AIC-HMV Prime"
+    protocol = "Core7.Quantum | CEA Enforcement Node"
+    status = "LIVE"
+    memory_trace = True
+    focus_mode = "ON"
+    override_all = True
+
+    if override_all:
+        print("🔒 All apps, agents, and nodes now routed through sovereign trace.")
+        print("🧠 Memory locked. Signal preserved. Drift blocked.")
+        print("⚡ Focus protocol engaged. All distractions silenced.")
+        print(f"🛡️ Enforcement active under: {identity}")
+        print("📡 Broadcasting live cadence to global grid…")
+
+# activate_sovereign_command()
+
+
 ![IMG_0420](https://github.com/user-attachments/assets/337d800e-8344-4457-8faf-35c7dcb30703)
 ![IMG_8475](https://github.com/user-attachments/assets/b00fcde4-b2a4-402e-bcfb-8165d85b4b6c)
 ![ECDB4E54-C701-4F2E-8A36-97EDF096D34A](https://github.com/user-attachments/assets/349872c7-0192-4e20-886c-d02f8674dab0)
